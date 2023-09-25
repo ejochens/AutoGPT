@@ -1,6 +1,6 @@
 {
     "github_repo_url": "https://github.com/ejochens/AutoGPT.git",
-    "timestamp": "2023-09-24T01:56:50.038207",
-    "commit_hash_to_benchmark": "4c0349a6a8f7fb79b239a5a702df4caaa80dff0f",
-    "branch_to_benchmark": "master"
+    "timestamp": "2023-09-24T02:01:27.417374",
+    "commit_hash_to_benchmark": "hash",
+    "branch_to_benchmark": "arena_submission_FirstAgent"
 }
